@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Mend",
+    "image": "heroPanelBG3.jpg",
+    "position": {
+      "sm": {"background-position": "center 40%"},
+      "md": {"background-position": "center center"}
+    },
+    "size": {
+      "sm": {"background-size": "100%"},
+      "md": {"background-size": "100%"}
+    },
+    "description": "Developed the front-end of the entire project",
+    "videoSrc": null,
+    "imageSrc": "Yoga2.png",
+    "siteLink": "https://www.mendstudio.com/"
+  },
+  {
+    "id": 2,
+    "name": "Turf Tenders",
+    "image": "lawn-bg-1200.png",
+    "position": {
+      "sm": {"background-position": "center 40%"},
+      "md": {"background-position": "center center"}
+    },
+    "size": {
+      "sm": {"background-size": "100%"},
+      "md": {"background-size": "250%"}
+    },
+    "description": "Developed the front-end of the entire project",
+    "videoSrc": null,
+    "imageSrc": "lawn-bg-1200.png",
+    "siteLink": "https://www.turftendersservice.com/"
+  },
+    {
+      "id": 3,
+    "name": "Reflective",
+    "image": "iStock-1189913170.png",
+    "position": {
+      "sm": {"background-position": "center 40%"},
+      "md": {"background-position": "center center"}
+    },
+    "size": {
+      "sm": {"background-size": "100%"},
+      "md": {"background-size": "150%"}
+    },
+    "description": "Developed the front-end of the entire project",
+    "videoSrc": null,
+    "imageSrc": "iStock-1189913170.png",
+    "siteLink": "https://www.reflectivecontracting.com/"
+  },
+  {
+    "id": 4,
+    "name": "Law Enforcement Memorial",
+    "image": "banner-image-3.png",
+    "position": {
+      "sm": {"background-position": "center 40%"},
+      "md": {"background-position": "center top"}
+    },
+    "size": {
+      "sm": {"background-size": "100%"},
+      "md": {"background-size": "300%"}
+    },
+    "description": "Developed the front-end of the entire project",
+    "videoSrc": null,
+    "imageSrc": "banner-image-3.png",
+    "siteLink": "https://www.wlem.com/"
+  },
+    {
+      "id": 5,
+    "name": "Kraverz",
+    "image": "kravez.png",
+    "position": {
+      "sm": {"background-position": "center 40%"},
+      "md": {"background-position": "center center"}
+    },
+    "size": {
+      "sm": {"background-size": "100%"},
+      "md": {"background-size": "100%"}
+    },
+    "description": "Homepage development.",
+    "videoSrc": null,
+    "imageSrc": "kravez2.png",
+    "siteLink": "https://www.kraverzcustard.com/"
+  },
+  {
+    "id": 6,
+    "name": "CRYOFIT",
+    "image": "vit.jpg",
+    "position": {
+      "sm": {"background-position": "center 40%"},
+      "md": {"background-position": "center center"}
+    },
+    "size": {
+      "sm": {"background-size": "100%"},
+      "md": {"background-size": "100%"}
+    },
+    "description": "Update the front-end of homepage",
+    "videoSrc": null,
+    "imageSrc": "vit-injections-img.jpg",
+    "siteLink": "https://ivboosters.com/"
+  },
+  {
+    "id": 7,
+    "name": "BGS Glass",
+    "image": "bgs.jpg",
+    "position": {
+      "sm": {"background-position": "center 40%"},
+      "md": {"background-position": "center center"}
+    },
+    "size": {
+      "sm": {"background-size": "100%"},
+      "md": {"background-size": "300%"}
+    },
+    "description": "Rebuild the homepage",
+    "videoSrc": null,
+    "imageSrc": "bgs.jpg",
+    "siteLink": "https://www.bgsglass.com/"
+  },
+    
+  {
+    "id": 8,
+    "name": "Cinematography Site",
+    "image": "drew.jpg",
+    "position": {
+      "sm": {"background-position": "center top"},
+      "md": {"background-position": "31% top"}
+    },
+    "size": {
+      "sm": {"background-size": "100%"},
+      "md": {"background-size": "200%"}
+    },
+    "description": "A client found me said that there are many features that he wants to improve with his existing website. So, I improved the responsive design and animation within the splash page. I also built an admin tool for the client to upload his video. This tool is written by PHP and MySQL. Finally, I improved the design of the film page to exactly match the client’s design.",
+    "videoSrc": "https://www.youtube.com/embed/sb_mJuHPgx8",
+    "siteLink": "https://drewhagenstudios.com/"
+  },
+  {
+    "id": 9,
+     "name": "Portfolio Site",
+    "image": "wheel.jpg",
+    "position": {
+      "sm": {"background-position": "center center"},
+      "md": {"background-position": "50% 10%"}
+    },
+    "size": {
+      "sm": {"background-size": "100%"},
+      "md": {"background-size": "200%"}
+    },
+    "description": "An interactive website built for an educator/artist. The project shows off his portfolio as two different roles. I used a different navigation layout in this project, and there are many interactive elements. The technology stacks include jQuery, JavaScript, HTML, and CSS.",
+    "videoSrc": "https://www.youtube.com/embed/h8oY4oqY9bo",
+    "siteLink": "https://liangwuweb.github.io/portfolio/JohnnySite/index.html"
+  },
+  {
+    "id": 10,
+    "name": "Interactive Map",
+    "image": "map.jpg",
+    "position": {
+      "sm": {"background-position": "center center"},
+      "md": {"background-position": "10% 40%"}
+    },
+    "size": {
+      "sm": {"background-size": "100%"},
+      "md": {"background-size": "250%"}
+    },
+    "description": "An interactive map created to present a user interface concept. Users can interact with a map by choosing different transportation options. Also, they can toggle the night mode. I used jQuery, JavaScript, HTML, and CSS in this project.",
+    "videoSrc": "https://www.youtube.com/embed/zXg53NdLRJA",
+    "siteLink": "https://liangwuweb.github.io/portfolio/Map/index.html"
+  }
+]
